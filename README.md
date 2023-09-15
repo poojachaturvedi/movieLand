@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/poojachaturvedi/movieLand">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/poojachaturvedi/movieLand/blob/master/movieland_project_ss.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">MovieLand</h3>
@@ -57,7 +57,12 @@
 This project was build during my intial days of learning about web development and react. The project supports simple search you can type the movie name in the task bar and it gets displayed based on whatever is entered any movie related to that keyword gets displayed on screen.It uses imbd API to fetch the details and display it on the screen.
 
 
+ ![Alt text](https://github.com/poojachaturvedi/movieLand/blob/master/movieland_Ss_2.png)
 
+ <br>
+
+ ![Alt text](https://github.com/poojachaturvedi/movieLand/blob/master/movieland_project_ss.png)
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -113,16 +118,6 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
