@@ -119,9 +119,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,8 +129,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Contact
 
 
-
+Email - poojachaturvedi1672002@gmail.com
+<br>
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+<br>
+Linkedin Profile: [https://www.linkedin.com/in/pooja-chaturvedi-5563251b4](https://www.linkedin.com/in/pooja-chaturvedi-5563251b4)
+Connect with me on quora:[https://www.quora.com/profile/Pooja-Chaturvedi-116](https://www.quora.com/profile/Pooja-Chaturvedi-116)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
